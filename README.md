@@ -1,11 +1,14 @@
 ## Olá! Eu sou o João Pedro Barbosa 👋
 
 <br/><br/><br/>
-<a href="https://github.com/CronusLDX">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cronusldx&show_icons=true&theme=holi" />
-</a>
-<a href="https://github.com/CronusLDX">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cronusldx&layout=compact&langs_count=8&card_width=320&theme=holi" />
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://github.com/CronusLDX">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=cronusldx&show_icons=true&theme=holi" />
+  </a>
+  <a href="https://github.com/CronusLDX">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cronusldx&layout=compact&langs_count=8&card_width=320&theme=holi" />
+  </a>
+</div>
 </a><br/><br/><br/><br/>
 
  Sou Desenvolvedor Fullstack, imerso na criação de interfaces digitais dinâmicas e soluções robustas. Minhas principais ferramentas incluem TypeScript, NodeJs, React JS, Next.js, PostgreSQL, MongoDB, HTML5, CSS3, Tailwind CSS e Bootstrap, que me permitem desenvolver sistemas escaláveis e de alto desempenho.
