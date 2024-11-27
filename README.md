@@ -1,6 +1,8 @@
 ## Olá! Eu sou o João Pedro Barbosa 👋
 
-<br/><br/><br/>
+# Portifólio: https://www.eujoaodev.co/
+
+<br/>
 <div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/CronusLDX">
     <img height="70%" width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=cronusldx&show_icons=true&theme=holi" />
@@ -10,7 +12,7 @@
     <img height="70%" width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cronusldx&layout=compact&langs_count=8&card_width=320&theme=holi" />
   </a>
 </div>
-</a><br/><br/><br/><br/>
+</a><br/><br/>
 
  Sou Desenvolvedor Fullstack, imerso na criação de interfaces digitais dinâmicas e soluções robustas. Minhas principais ferramentas incluem TypeScript, NodeJs, React JS, Next.js, PostgreSQL, MongoDB, HTML5, CSS3, Tailwind CSS e Bootstrap, que me permitem desenvolver sistemas escaláveis e de alto desempenho.
 
@@ -28,12 +30,21 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meu conhec
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img  align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+</div
   
   ##
- 
+
+ <br/>
 <div> 
   <a href = "mailto:joaopedrobdfworks@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-pedro-barbosa-duartea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
