@@ -9,7 +9,7 @@
   </a>
   <br/><br/>
   <a href="https://github.com/CronusLDX">
-    <img height="100%" width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cronusldx&layout=compact&langs_count=8&card_width=320&theme=holi" />
+    <img height="100%" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cronusldx&layout=compact&langs_count=8&card_width=320&theme=holi" />
   </a>
 </div>
 </a><br/><br/>
