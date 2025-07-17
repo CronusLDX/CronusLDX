@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Pedro Barbosa 👋
 
-# Portifólio: https://www.eujoaodev.co/
+# Portifólio: 
 
 <br/>
 <div style="display: flex; justify-content: space-around;">
