@@ -5,11 +5,11 @@
 <br/>
 <div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/CronusLDX">
-    <img height="80%" width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=cronusldx&show_icons=true&theme=holi" />
+    <img height="100%" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=cronusldx&show_icons=true&theme=holi" />
   </a>
   <br/><br/>
   <a href="https://github.com/CronusLDX">
-    <img height="80%" width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cronusldx&layout=compact&langs_count=8&card_width=320&theme=holi" />
+    <img height="100%" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cronusldx&layout=compact&langs_count=8&card_width=320&theme=holi" />
   </a>
 </div>
 </a><br/><br/>
