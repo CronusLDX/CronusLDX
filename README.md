@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Pedro Barbosa 👋
 
-# Portifólio: 
+# Portifólio: https://portifolio-joao-pedro.netlify.app/
 
 <br/>
 <div style="display: flex; justify-content: space-around;">
